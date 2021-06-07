@@ -2,3 +2,4 @@ cairocffi
 python-dotenv
 sklearn
 talus
+https://github.com/rmeinl/talus_data_analysis
