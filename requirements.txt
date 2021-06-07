@@ -1,2 +1,2 @@
 cairocffi
-https://pypi.org/project/dotenv/
+https://github.com/theskumar/python-dotenv
