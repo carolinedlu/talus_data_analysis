@@ -1,3 +1,5 @@
 cairocffi
 python-dotenv
 sklearn
+talus
+talus_data_analysis
