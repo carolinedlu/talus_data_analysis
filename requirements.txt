@@ -1,2 +1,2 @@
 cairocffi
-dotenv
+https://pypi.org/project/dotenv/
