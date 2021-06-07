@@ -5,16 +5,16 @@ import streamlit as st
 from dotenv import load_dotenv
 from sklearn.decomposition import PCA
 
-from talus_data_analysis.load import get_s3_file_sizes
-from talus_data_analysis.load import read_df_from_s3
-from talus_data_analysis.plot import box
-from talus_data_analysis.plot import clustergram
-from talus_data_analysis.plot import correlation
-from talus_data_analysis.plot import histogram
-from talus_data_analysis.plot import pca
-from talus_data_analysis.plot import scatter_matrix
-from talus_data_analysis.plot import venn
-from talus_data_analysis.save import streamlit_report_to_pdf
+# from talus_data_analysis.load import get_s3_file_sizes
+# from talus_data_analysis.load import read_df_from_s3
+# from talus_data_analysis.plot import box
+# from talus_data_analysis.plot import clustergram
+# from talus_data_analysis.plot import correlation
+# from talus_data_analysis.plot import histogram
+# from talus_data_analysis.plot import pca
+# from talus_data_analysis.plot import scatter_matrix
+# from talus_data_analysis.plot import venn
+# from talus_data_analysis.save import streamlit_report_to_pdf
 
 
 st.set_page_config(
