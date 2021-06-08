@@ -30,7 +30,7 @@ fpdf = "^1.7.2"
 pyarrow = "^4.0.0"
 "hurry.filesize" = "^0.9"
 cairocffi = "^1.2.0"
-pangocffi = "^0.10.0"
+cairosvg = "^2.5.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
